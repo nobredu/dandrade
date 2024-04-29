@@ -1,0 +1,56 @@
+Para a execução do codigo, recomendo que utilize um prompt de comando (CMD).
+Pre requesito para utilização: sdk dotnet (MIN 8.0)
+Ira entrar na pasta "ConferenceManagement" e executar o comando "dotnet run"
+Após inicio do programa, colar todas linhas sem linha em branco e dar enter em uma linha em branco para inicio do processamento 
+
+EXEMPLO DE FORMATO DE ENTRADA:
+Writing Fast Tests Against Enterprise .Net 60min
+Overdoing it in Python 45min
+Lua for the Masses 30min
+.Net Errors from Mismatched Nuget Versions 45min
+Common .Net Errors 45min
+Python for .Net Developers relampago
+Communicating Over Distance 60min
+Accounting-Driven Development 45min
+Woah 30min
+Sit Down and Write 30min
+Pair Programming vs Noise 45min
+.Net Magic 60min
+.Net Core: Why We Should Move On 60min
+Clojure Ate Scala (on my project) 45min
+Programming in the Boondocks of Seattle 30min
+.Net vs. Clojure for Back-End Development 30min
+.Net Core Legacy App Maintenance 60min
+A World Without HackerNews 30min
+User Interface CSS in .Net Apps 30min
+
+EXEMPLO DE FORMATO DE SAIDA
+Trilha 1:
+09:00H Writing Fast Tests Against Enterprise .Net 60min
+10:00H Overdoing it in Python 45min
+10:45H Lua for the Masses 30min
+11:15H .Net Errors from Mismatched Nuget Versions 45min
+13:00H Python for .Net Developers relampago
+13:05H Communicating Over Distance 60min
+14:05H Accounting-Driven Development 45min
+14:50H Woah 30min
+15:20H Sit Down and Write 30min
+15:50H Pair Programming vs Noise 45min
+
+Trilha 2:
+09:00H Common .Net Errors 45min
+09:45H .Net Magic 60min
+10:45H .Net Core: Why We Should Move On 60min
+13:00H Programming in the Boondocks of Seattle 30min
+13:30H .Net vs. Clojure for Back-End Development 30min
+14:00H .Net Core Legacy App Maintenance 60min
+15:00H A World Without HackerNews 30min
+15:30H User Interface CSS in .Net Apps 30min
+16:00H Clojure Ate Scala (on my project) 45min
+
+
+ERROS
+No momento de inserir os dados de entrada não pode haver linhas em branco, caso haja o programa ira iniciar.
+
+AVISOS
+Algumas trilhas poderão estar com o horario anterior as 16:00, porem essas trilhas estão seguindo a regra de acabar ate 17:00 no maximo, por exemplo, uma trilha que começou as 15:50, caso ela tenha 30min, ela esta se enquandrando na regra de tempo, por mais que fique um pouco estranho na visualização.
